@@ -1,1 +1,0 @@
-print("Executando script python do repositório")
